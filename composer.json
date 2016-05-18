@@ -22,5 +22,5 @@
   "require": {
     "php": ">=7",
     "google/apiclient": "*"
-  },
+  }
  }
