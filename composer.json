@@ -18,9 +18,5 @@
       "email": "litvinov-it@gmail.com",
       "role": "Contributor"
     }
-  ],
-  "require": {
-    "php": ">=7",
-    "google/apiclient": "*"
-  }
+  ]
  }
