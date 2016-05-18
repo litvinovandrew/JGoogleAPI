@@ -1,5 +1,6 @@
 {
   "name": "litvinov/JGoogleAPI",
+  "version": "1.0.1",
   "description": "Fork of the JGoogleAPI extention",
   "keywords": [
     "google-api",
