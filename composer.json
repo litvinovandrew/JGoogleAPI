@@ -21,6 +21,6 @@
   ],
   "require": {
     "php": ">=7",
-    "google/apiclient": ""
+    "google/apiclient": "*"
   },
  }
